@@ -1,1 +1,1 @@
-# tictactoeJs
+# tic-tac-toe
